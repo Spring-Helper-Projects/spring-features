@@ -15,10 +15,10 @@ return {
 		shortGame = "Features",
 		name = "Spring Features",
 		shortName = "Features",
-		version = "1.0",
+		version = "1.1",
 		mutator = "Official",
 		-- These can be shown by the selection interface
-		description = "This is a support archive containign all of the features available for spring. Games can add this package as a dependency so that featureplacer can be used by mappers to create maps that are smaller in filesize and more feature rich.",
+		description = "This is a support archive containing all of the features available for spring. Games can add this package as a dependency so that featureplacer can be used by mappers to create maps that are smaller in filesize and more feature rich.",
 		url = "http://springrts.com/phpbb/viewtopic.php?f=56&t=25752",
 		-- What kind of mod this is 
 		--  0 - Hidden (support mod that can't be selected, such as OTA_textures) 
