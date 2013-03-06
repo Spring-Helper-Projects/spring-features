@@ -15,7 +15,7 @@ return {
 		shortGame = "Features",
 		name = "Spring Features",
 		shortName = "Features",
-		version = "1.1",
+		version = "$VERSION",
 		mutator = "Official",
 		-- These can be shown by the selection interface
 		description = "This is a support archive containing all of the features available for spring. Games can add this package as a dependency so that featureplacer can be used by mappers to create maps that are smaller in filesize and more feature rich.",
