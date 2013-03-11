@@ -17,5 +17,12 @@ local featureDef	=	{
 	flammable				=true,
 	reclaimable				=true,
 	autoreclaimable				=true,
+	
+	customparams = { 
+		 author 	 = "Wildfire Games", 
+		 category 	 = "tree", 
+		 set 		 = "0AD Aleppo Pines", 
+
+	},
 } 
 return lowerkeys({[objectname] = featureDef}) 

@@ -21,6 +21,10 @@ local featureDef	=	{
 	featurereclamate				="smudge01",
 	seqnamereclamate				="tree1reclamate",
 	customparams = { 
+		 author 	 = "Wildfire Games", 
+		 category 	 = "tree", 
+		 set 		 = "0AD Senegal", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

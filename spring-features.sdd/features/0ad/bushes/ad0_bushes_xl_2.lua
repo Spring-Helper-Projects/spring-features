@@ -20,6 +20,10 @@ local featureDef	=	{
 	reclaimable				=true,
 	autoreclaimable				=true,
 	customparams = { 
+		 author 	 = "Wildfire Games", 
+		 category 	 = "bush", 
+		 set 		 = "0AD Bushes", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

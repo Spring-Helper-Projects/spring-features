@@ -22,6 +22,10 @@ local featureDef	=	{
 	seqnamereclamate				="tree1reclamate",
 
 	customparams = { 
+		 author 	 = "Wildfire Games", 
+		 category 	 = "tree", 
+		 set 		 = "0AD Baobob", 
+ 
 		randomrotate		= "true", 
 	}, 
 }
