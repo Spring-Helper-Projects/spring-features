@@ -25,6 +25,10 @@ local featureDef	=	{
 	autoreclaimable		= true, 	
 	world				= "All Worlds",
 	customparams = { 
+		 author 	 = "Smoth", 
+		 category 	 = "industrial", 
+		 set 		 = "Smoth's Harbor Set", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

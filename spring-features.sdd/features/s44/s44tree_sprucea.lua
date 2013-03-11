@@ -22,6 +22,10 @@ local featureDef  =  {
    autoreclaimable      = true,  
    world          = "All Worlds",
 	customparams = { 
+		 author 	 = "S44", 
+		 category 	 = "tree", 
+		 set 		 = "S44 Trees", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

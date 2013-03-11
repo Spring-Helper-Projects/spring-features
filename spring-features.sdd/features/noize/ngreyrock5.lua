@@ -21,6 +21,10 @@ local featureDef	=	{
 	autoreclaimable		= true, 	
 	world				= "All Worlds",
 	customparams = { 
+		 author 	 = "Noize", 
+		 category 	 = "rock", 
+		 set 		 = "Noize's Rocks", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

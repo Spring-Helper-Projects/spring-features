@@ -23,6 +23,10 @@ local featureDef	=	{
 	world				= "All Worlds",
 	upright				= true,
 	customparams = { 
+		 author 	 = "Smoth", 
+		 category 	 = "industrial", 
+		 set 		 = "Smoth's Harbor Set", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

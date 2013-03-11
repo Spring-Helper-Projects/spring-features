@@ -24,6 +24,10 @@ local featureDef	=	{
 	collisionvolumescales				={96, 72, 144},
 	collisionvolumeoffsets				={0, 0, 0},
 	customparams = { 
+		 author 	 = "S44", 
+		 category 	 = "building", 
+		 set 		 = "S44 Houses", 
+ 
 		randomrotate		= "true", 
 	}, 
 }
