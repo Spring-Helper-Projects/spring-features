@@ -24,6 +24,10 @@ local featureDef	=	{
 	collisionvolumescales				={5, 50, 50},
 	collisionvolumeoffsets				={0, 0, 0},
 	customparams = { 
+		 author 	 = "Sir Artturi", 
+		 category 	 = "tree", 
+		 set 		 = "Sir Artturi's Low Quality Trees", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

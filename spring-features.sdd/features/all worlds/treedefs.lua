@@ -22,7 +22,11 @@ local function CreateTreeDef(type)
      footprintZ  = 2,
      collisionVolumeTest = 0,
 
-     customParams = {
+     customparams = { 
+		 author 	 = "Spring Engine", 
+		 category 	 = "tree", 
+		 set 		 = "Spring Engine Default Trees", 
+
        mod = true,
      },
 
