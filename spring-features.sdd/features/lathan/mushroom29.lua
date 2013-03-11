@@ -21,6 +21,10 @@ local featureDef	=	{
 	autoreclaimable		= true, 	
 	world				= "All Worlds",
 	customparams = { 
+		 author 	 = "Lathan", 
+		 category 	 = "mushroom", 
+		 set 		 = "Lathan's Mushrooms", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

@@ -19,6 +19,10 @@ local featureDef	=	{
 	indestructible				="0.0",
 	upright				=true,
 	customparams = { 
+		 author 	 = "Lathan", 
+		 category 	 = "bush", 
+		 set 		 = "Lathan's Ferns", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

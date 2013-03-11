@@ -22,6 +22,10 @@ local featureDef	=	{
 	autoreclaimable		= true, 	
 	world				= "All Worlds",
 	customparams = { 
+		 author 	 = "Lathan", 
+		 category 	 = "industrial", 
+		 set 		 = "Lathan's Industrial Features", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

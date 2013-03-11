@@ -21,6 +21,10 @@ local featureDef	=	{
 	autoreclaimable		= true, 	
 	world				= "All Worlds",
 	customparams = { 
+		 author 	 = "Lathan", 
+		 category 	 = "spire", 
+		 set 		 = "Lathan's Energy Spires", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

@@ -22,6 +22,10 @@ local featureDef	=	{
 	autoreclaimable		= true, 	
 	world				= "All Worlds",
 	customparams = { 
+		 author 	 = "Lathan", 
+		 category 	 = "tiberium", 
+		 set 		 = "Lathan's Tiberium", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

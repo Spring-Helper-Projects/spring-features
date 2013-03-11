@@ -23,6 +23,10 @@ local featureDef	=	{
 	featurereclamate				="smudge01",
 	seqnamereclamate				="tree1reclamate",
 	customparams = { 
+		 author 	 = "Lathan", 
+		 category 	 = "lilypad", 
+		 set 		 = "Lathan's Lilypads", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

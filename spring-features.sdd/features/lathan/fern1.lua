@@ -21,6 +21,10 @@ local featureDef	=	{
 	energy = 10,
 -- energy				=100,
 	customparams = { 
+		 author 	 = "Lathan", 
+		 category 	 = "bush", 
+		 set 		 = "Lathan's Ferns", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

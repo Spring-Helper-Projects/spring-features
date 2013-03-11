@@ -21,6 +21,10 @@ local featureDef	=	{
 	autoreclaimable		= true, 	
 	world				= "All Worlds",
 	customparams = { 
+		 author 	 = "Lathan", 
+		 category 	 = "tyranid", 
+		 set 		 = "Lathan's Tyranids", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

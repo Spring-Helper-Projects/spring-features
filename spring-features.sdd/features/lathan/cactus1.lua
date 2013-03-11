@@ -1,12 +1,12 @@
 -----------------------------------------------------------------------------
---  Cactus1
+--  cactus1
 -----------------------------------------------------------------------------
 local featureDef  =  {
-   name           = "Cactus1",
+   name           = "cactus1",
    blocking       = false,
    category       = "Vegitation",
    damage            = 500,
-   description       = "Cactus",
+   description       = "cactus",
    energy = 10,
 -- energy            = 50,
    flammable         = 0,
@@ -17,11 +17,15 @@ local featureDef  =  {
    hitdensity        = "5",
    metal = 0,
 --metal          = 10,
-   object            = "features/lathan/Cactus1.s3o",
+   object            = "features/lathan/cactus1.s3o",
    reclaimable       = true,
    autoreclaimable      = true,  
    world          = "All Worlds",
 	customparams = { 
+		 author 	 = "Lathan", 
+		 category 	 = "cactus", 
+		 set 		 = "Lathan's Cacti", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

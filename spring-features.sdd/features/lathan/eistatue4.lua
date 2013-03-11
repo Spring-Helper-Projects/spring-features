@@ -21,6 +21,10 @@ local featureDef	=	{
 	autoreclaimable		= true, 	
 	world				= "All Worlds",
 	customparams = { 
+		 author 	 = "Lathan", 
+		 category 	 = "statue", 
+		 set 		 = "Lathan's Easter Island Statues", 
+ 
 		randomrotate		= "true", 
 	}, 
 }
