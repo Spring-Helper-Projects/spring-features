@@ -21,6 +21,10 @@ local featureDef	=	{
 	featurereclamate				="smudge01",
 	seqnamereclamate				="tree1reclamate",
 	customparams = { 
+		 author 	 = "Beherith", 
+		 category 	 = "tree", 
+		 set 		 = "Beherith's Low Quality Trees", 
+ 
 		randomrotate		= "true", 
 	}, 
 }

@@ -19,6 +19,10 @@ local featureDef	=	{
 	reclaimable				=true,
 	autoreclaimable				=true,
 	customparams = { 
+		 author 	 = "Beherith", 
+		 category 	 = "rock", 
+		 set 		 = "Beherith's Rocks", 
+ 
 		randomrotate		= "true", 
 	}, 
 }
