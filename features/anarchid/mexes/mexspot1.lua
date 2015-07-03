@@ -1,0 +1,20 @@
+local featureDef	=	{
+	alwaysvisible		= true,
+	name				= "Coral Ring",
+	blocking			= false,
+	category			= "mexspot",
+	damage				= 10000,
+	description			= "Indicates metal deposit",
+	energy				= 100,
+	flammable			= 0,
+	footprintX			= 0,
+	footprintZ			= 0,
+	height				= "8",
+	hitdensity			= "0",
+	metal				= 1,
+	object				= "features/anarchid/mexes/mexspot_2.blend",
+	reclaimable			= false,
+	autoreclaimable		= false, 	
+	world				= "All Worlds",
+}
+return lowerkeys({coralring1 = featureDef})
