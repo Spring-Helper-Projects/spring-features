@@ -18,7 +18,9 @@ local featureDef	=	{
 	seqnamereclamate				="tree1reclamate",
 	indestructible				="0.0",
 	upright				=true,
-	energy = 10,
+
+
+  energy = 0,
 -- energy				=100,
 	customparams = { 
 		 author 	 = "Lathan", 

@@ -7,7 +7,9 @@ local featureDef	=	{
 	category			= "Industrial",
 	damage				= 1000,
 	description			= "pile of pipes",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 2000,
 	featureDead			= "rubble",
 	flammable			= false,

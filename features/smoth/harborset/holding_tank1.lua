@@ -7,7 +7,9 @@ local featureDef	=	{
 	damage				= 2000,
 	description			= "Chemical tank",
 	featuredead			= "holding_tank1_dead",			
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 2000,
 	flammable			= 0,
 	collisionvolumetype  = "CylY",

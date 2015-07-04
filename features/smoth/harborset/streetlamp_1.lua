@@ -6,7 +6,9 @@ local featureDef	=	{
 	category			= "urban",
 	damage				= 2000,
 	description			= "large streetlamp",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 20,
 	flammable			= 0,
 	footprintX			= 1,

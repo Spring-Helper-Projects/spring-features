@@ -6,7 +6,9 @@ local featureDef	=	{
 	blocking			= true,
 	category			= "vegitation",
 	damage				= 100,
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 1,
 	description			= "shrub",
 	flammable			= true,

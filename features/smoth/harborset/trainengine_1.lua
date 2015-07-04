@@ -6,7 +6,9 @@ local featureDef	=	{
 	category			= "industrial",
 	damage				= 2000,
 	description			= "Train engine",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 5000,
 	flammable			= 0,
 	collisionvolumetype  = "box",

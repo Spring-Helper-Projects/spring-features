@@ -7,7 +7,9 @@ local featureDef	=	{
 	category			= "Vegitation",
 	damage				= 6500,
 	description			= "Gigantic Swamp Tree",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 2300,
 	flammable			= 0,
 	footprintX			= 3,

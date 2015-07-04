@@ -6,7 +6,9 @@ local featureDef	=	{
 	category			= "industrial",
 	damage				= 2000,
 	description			= "Water tower",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 30,
 	flammable			= 0,
 	collisionvolumetype  = "CylY",

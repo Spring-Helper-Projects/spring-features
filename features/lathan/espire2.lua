@@ -7,7 +7,9 @@ local featureDef	=	{
 	category			= "rocks",
 	damage				= 4000,
 	description			= "Energy Spire",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 200,
 	flammable			= 0,
 	footprintX			= 2,

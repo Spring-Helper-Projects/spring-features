@@ -11,7 +11,9 @@ local featureDef	=	{
 	height				=78,
 	blocking				=true,
 	hitdensity				=5,
-	energy = 10,
+
+
+  energy = 0,
 -- energy				=0,
 	metal = 0,
 --metal				=220,

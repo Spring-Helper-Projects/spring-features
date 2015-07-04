@@ -6,7 +6,9 @@ local featureDef	=	{
 	category			= "industrial",
 	damage				= 20000,
 	description			= "Cargo ship",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 10000,
 	flammable			= 0,
 	collisionvolumetype  = "box",

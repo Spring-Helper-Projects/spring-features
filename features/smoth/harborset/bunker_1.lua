@@ -6,7 +6,9 @@ local featureDef	=	{
 	category			= "millitary",
 	damage				= 2000,
 	description			= "fortified bunker",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 10000,
 	flammable			= 0,
 	collisionvolumetype  = "box",

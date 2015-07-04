@@ -7,7 +7,9 @@ local featureDef	=	{
 	category			= "Vegitation",
 	damage				= 120,
 	description			= "Purple Mushrooms",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 400,
 	flammable			= 0,
 	footprintX			= 7,

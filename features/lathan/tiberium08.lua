@@ -7,7 +7,9 @@ local featureDef	=	{
 	category			= "rocks",
 	damage				= 2800,
 	description			= "Tiberium Crystal",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 500,
 	flammable			= 0,
 	footprintX			= 2,

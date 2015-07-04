@@ -6,7 +6,9 @@ local featureDef	=	{
 	category			= "industrial",
 	damage				= 2000,
 	description			= "Pipeline",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 2000,
 	flammable			= 0,
 	footprintX			= 1,

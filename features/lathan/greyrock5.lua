@@ -7,7 +7,9 @@ local featureDef	=	{
 	category			= "rocks",
 	damage				= 1000,
 	description			= "Grey Rock",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 0,
 	flammable			= 0,
 	footprintX			= 3,

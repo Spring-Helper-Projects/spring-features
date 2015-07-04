@@ -6,7 +6,9 @@ local featureDef	=	{
 	category			= "military",
 	damage				= 2000,
 	description			= "Underground Silo Entrance",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 2000,
 	flammable			= 0,
 	collisionvolumetype  = "box",

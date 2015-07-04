@@ -9,7 +9,9 @@ local featureDef = {
 	category			= "Trees",
 	damage				= 100,
 	description			= "Dead Tree",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 1,
 	featuredead			= "smothtree123dead",	
 	flammable			= 1,

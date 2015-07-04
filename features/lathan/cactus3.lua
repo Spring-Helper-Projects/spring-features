@@ -7,7 +7,8 @@ local featureDef  =  {
    category       = "Vegitation",
    damage            = 500,
    description       = "cactus",
-   energy = 10,
+   --energy = 10, 
+  energy = 0,
 -- energy            = 50,
    flammable         = 0,
    footprintX        = 1,

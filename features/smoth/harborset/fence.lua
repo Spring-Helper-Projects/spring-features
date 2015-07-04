@@ -6,7 +6,9 @@ local featureDef	=	{
 	category			= "industrial",
 	damage				= 20,
 	description			= "hurricane fencing",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 20,
 	flammable			= 0,
 	footprintX			= 1,

@@ -7,7 +7,9 @@ local featureDef	=	{
 	damage				= 20000,
 	description			= "Warehouse",
 	featuredead			= "warehouse_large_dead",	
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 2000,
 	flammable			= 0,
 	collisionvolumetype  = "box",

@@ -7,7 +7,9 @@ local featureDef	=	{
 	category			= "industrial",
 	damage				= 6500,
 	description			= "Snowy Satellite Dish",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 2300,
 	flammable			= 0,
 	footprintX			= 16,

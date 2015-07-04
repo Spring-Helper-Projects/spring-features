@@ -7,7 +7,8 @@ local featureDef  =  {
    category       = "Vegitation",
    damage            = 120,
    description       = "Snowy Tree",
-   energy = 10,
+   --energy = 10, 
+  energy = 0,
 -- energy            = 400,
    flammable         = 0,
    footprintX        = 8,

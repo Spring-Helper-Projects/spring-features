@@ -6,7 +6,9 @@ local featureDef	=	{
 	category			= "industrial",
 	damage				= 2000,
 	description			= "Foreman trailer",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 1000,
 	flammable			= 0,
 	footprintX			= 2,

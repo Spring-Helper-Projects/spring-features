@@ -11,8 +11,10 @@ local featureDef	=	{
 	blocking				=true,
 	upright				=true,
 	hitdensity				=0,
-	energy = 10,
--- energy				=1,
+
+
+	energy = 0,
+
 
 	damage				=220,
 	flammable				=true,
@@ -21,10 +23,10 @@ local featureDef	=	{
 	featurereclamate				="smudge01",
 	seqnamereclamate				="tree1reclamate",
 	customparams = { 
-		 author 	 = "Wildfire Games", 
-		 category 	 = "tree", 
-		 set 		 = "0AD Baobob", 
- 
+		author 	 = "Wildfire Games", 
+		category 	 = "tree", 
+		set 		 = "0AD Baobob", 
+
 		randomrotate		= "true", 
 	}, 
 }

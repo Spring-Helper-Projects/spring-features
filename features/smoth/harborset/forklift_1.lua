@@ -6,7 +6,9 @@ local featureDef	=	{
 	category			= "industrial",
 	damage				= 2000,
 	description			= "forklift",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 500,
 	flammable			= 0,
 	footprintX			= 1,

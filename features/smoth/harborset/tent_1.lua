@@ -6,7 +6,9 @@ local featureDef	=	{
 	category			= "millitary",
 	damage				= 2000,
 	description			= "Big Tent",
-	energy = 10,
+
+
+  energy = 0,
 -- energy				= 1000,
 	flammable			= 0,
 	collisionvolumetype  = "box",
