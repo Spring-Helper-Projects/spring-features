@@ -1,0 +1,21 @@
+local featureDef	=	{
+	alwaysvisible		= true,
+	name				= "XelNotGa Watchtower",
+	blocking			= false,
+	category			= "Watchtower",
+	damage				= 100000,
+	description			= "The ancient XelNotGa left this watchtower as a reminder...",
+	energy				= 0,
+	flammable			= 0,
+	footprintX			= 6,
+	footprintZ			= 6,
+	height				= "342",
+	hitdensity			= "0",
+	metal				= 0,
+	object				= "features/picasso/xelnotgawatchtower.s3o",
+	reclaimable			= false,
+	autoreclaimable		= false, 	
+	indestructible		= true,
+	world				= "All Worlds",
+}
+return lowerkeys({xelnotgawatchtower = featureDef})
