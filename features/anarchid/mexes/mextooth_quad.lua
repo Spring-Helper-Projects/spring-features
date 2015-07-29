@@ -15,6 +15,7 @@ local featureDef	=	{
 	hitdensity			= "0",
 	metal				= 0,
 	object				= "features/anarchid/mexes/mextooth_quad.dae",
+	indestructible		= true,
 	reclaimable			= false,
 	autoreclaimable		= false, 	
 	world				= "All Worlds",

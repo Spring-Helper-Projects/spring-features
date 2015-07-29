@@ -15,6 +15,7 @@ local featureDef	=	{
 	object				= "features/anarchid/mexes/mexspot_1.blend",
 	reclaimable			= false,
 	autoreclaimable		= false, 	
+	indestructible		= true,
 	world				= "All Worlds",
 }
 return lowerkeys({coralring = featureDef})

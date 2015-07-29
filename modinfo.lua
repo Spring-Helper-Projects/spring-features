@@ -29,7 +29,7 @@ return {
 		--           enabled in addition to xta for example? 
 		modtype = "0",
 		-- Number of other archives this one depends on 
-		depend= {
+		depend= { 
 			-- Number of other content names this one replaces
 		},
 	}

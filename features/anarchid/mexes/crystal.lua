@@ -15,7 +15,8 @@ local featureDef	=	{
 	metal				= 0,
 	object				= "features/anarchid/mexes/crystal.dae",
 	reclaimable			= false,
-	autoreclaimable		= false, 	
+	autoreclaimable		= false,
+	indestructible		= true, 	
 	world				= "All Worlds",
 }
 return lowerkeys({crystalring = featureDef})

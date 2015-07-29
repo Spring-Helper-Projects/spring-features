@@ -13,6 +13,7 @@ local featureDef	=	{
 	hitdensity			= "0",
 	metal				= 0,
 	object				= "features/anarchid/mexes/mexspot_3.blend",
+	indestructible		= true,
 	reclaimable			= false,
 	autoreclaimable		= false, 	
 	world				= "All Worlds",
