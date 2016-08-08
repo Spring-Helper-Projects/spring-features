@@ -4,11 +4,12 @@
 local featureDef  =  {
    name           = "agorm_palm2",
    blocking       = true,
-   category       = "vegitation",
+   category       = "vegetation",
    damage            = 100,
    description       = "palmtree",
    --energy = 10, 
-  energy = 0,
+
+  energy = 0,
 -- energy            = 1,
    flammable         = true,
    footprintX        = 1,

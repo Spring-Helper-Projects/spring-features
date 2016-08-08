@@ -4,11 +4,12 @@
 local featureDef  =  {
    name           = "SnowTree7",
    blocking       = true,
-   category       = "Vegitation",
+   category       = "vegetation",
    damage            = 120,
    description       = "Snowy Tree",
    --energy = 10, 
-  energy = 0,
+
+  energy = 0,
 -- energy            = 400,
    flammable         = 0,
    footprintX        = 7,

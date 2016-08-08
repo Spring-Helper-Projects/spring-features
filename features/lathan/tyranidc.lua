@@ -4,7 +4,7 @@
 local featureDef	=	{
 	name				= "TyranidC",
 	blocking			= true,
-	category			= "Vegitation",
+	category			= "vegetation",
 	damage				= 6500,
 	description			= "Tyranid Cappilary Tower",
 

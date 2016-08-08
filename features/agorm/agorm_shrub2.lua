@@ -4,7 +4,7 @@
 local featureDef	=	{
 	name				= "agorm_shrub2",
 	blocking			= true,
-	category			= "vegitation",
+	category			= "vegetation",
 	damage				= 100,
 	description			= "shrub",
 

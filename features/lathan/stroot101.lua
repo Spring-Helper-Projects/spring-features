@@ -4,7 +4,7 @@
 local featureDef	=	{
 	name				= "STRoot101",
 	blocking			= true,
-	category			= "Vegitation",
+	category			= "vegetation",
 	damage				= 6500,
 	description			= "Gigantic Swamp Tree",
 

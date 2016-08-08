@@ -4,7 +4,7 @@
 local featureDef	=	{
 	name				= "Mushroom28",
 	blocking			= true,
-	category			= "Vegitation",
+	category			= "vegetation",
 	damage				= 120,
 	description			= "Tan Mushrooms",
 
