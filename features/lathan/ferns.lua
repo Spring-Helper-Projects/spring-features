@@ -25,22 +25,23 @@ local Base = {
 local ferns = {}
 for i = 1, 8 do
 	local name = "fern" .. i
-	ferns[name] = {}
+	local def = {}
 	for k, v in pairs(Base) do
-		ferns[name][k] = v
+		def[k] = v
 	end
-	ferns[name].name = name
-	ferns[name].object = "features/lathan/" .. name .. ".s3o"
+	def.name = name
+	def.object = "features/lathan/" .. name .. ".s3o"
 
 	if i == 1 then
-		ferns[name].description = "Ferns and Stones" -- may break my bones?
+		def.description = "Ferns and Stones" -- may break my bones?
 	elseif i == 2 then
-		ferns[name].description = "Fern"
+		def.description = "Fern"
 	elseif i == 6 then
-		ferns[name].description = "Ferns and Stone"
+		def.description = "Ferns and Stone"
 	elseif i == 8 then
-		ferns[name].description = "Ferns and Stone"
+		def.description = "Ferns and Stone"
 	end
+	ferns[name] = def
 end
 
 return ferns
