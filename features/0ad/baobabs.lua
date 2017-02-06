@@ -16,7 +16,7 @@ local base = {
 	customparams = {
 		author = "Wildfire Games",
 		category = "tree",
-		set = "0AD Baobab",
+		set = "0AD Baobabs",
 
 		randomrotate = "true",
 	},
